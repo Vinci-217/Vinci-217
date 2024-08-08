@@ -8,6 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=Vinci-217)
 ![GitHub followers](https://img.shields.io/github/followers/Vinci-217?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Vinci-217?style=social)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 
 <p align="center">
