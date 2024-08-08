@@ -5,9 +5,9 @@
 </h1>
 <h3 align="center">A developer full of sentiment.</h3>
 
-<h3 align="center">![](https://komarev.com/ghpvc/?username=Vinci-217)
+![](https://komarev.com/ghpvc/?username=Vinci-217)
 ![GitHub followers](https://img.shields.io/github/followers/Vinci-217?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Vinci-217?style=social)</h3>
+![GitHub User's stars](https://img.shields.io/github/stars/Vinci-217?style=social)
 
 
 <p align="center">
