@@ -3,7 +3,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Vinci" alt="Typing SVG" /></a>
   </a>
 </h1>
-<h3>A Developer Full Of Sentiment.</h3>
+<h3>Who Am I》</h3>
+- A Developer Full Of Sentiment.
 
 ![](https://komarev.com/ghpvc/?username=Vinci-217)
 ![GitHub followers](https://img.shields.io/github/followers/Vinci-217?style=social)
