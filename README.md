@@ -2,7 +2,7 @@
 
 I am a programmer with a sense of passion and sentiment.
 
-### About me
+### 🖼️ About me
 
 💼 Backend Engineer in Future
 
@@ -18,18 +18,10 @@ I am a programmer with a sense of passion and sentiment.
 
 ### 🛠️ Tech Stack
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-</a>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
 [![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
 
