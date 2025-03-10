@@ -18,8 +18,10 @@ I am a programmer with a sense of passion and sentiment.
 
 ### 🛠️ Tech Stack
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></code>
+<code><img height="20" alt="java" src="https://cdn.simpleicons.org/openjdk/ED8B00"></code>
+<code><img height="20" alt="spring" src="https://cdn.simpleicons.org/spring/6DB33F"></code>
+<code><img height="20" alt="mysql" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
+<code><img height="20" alt="redis" src="https://cdn.simpleicons.org/redis/DC382D"></code>
 
 [![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
 
