@@ -18,10 +18,10 @@ I am a programmer with a sense of passion and sentiment.
 
 ### 🛠️ Tech Stack
 
-<code><img height="20" alt="java" src="https://cdn.simpleicons.org/openjdk/ED8B00"></code>
-<code><img height="20" alt="spring" src="https://cdn.simpleicons.org/spring/6DB33F"></code>
-<code><img height="20" alt="mysql" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
-<code><img height="20" alt="redis" src="https://cdn.simpleicons.org/redis/DC382D"></code>
+<code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" alt="spring" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 
 [![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
 
