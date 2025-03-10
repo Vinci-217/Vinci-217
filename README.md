@@ -1,6 +1,8 @@
+## Hi! I am Vinci
+
 I am a programmer with a sense of passion and sentiment.
 
-About me
+### About me
 
 💼 Backend Engineer in Future
 
@@ -14,13 +16,20 @@ About me
 ![GitHub followers](https://img.shields.io/github/followers/Vinci-217?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Vinci-217?style=social)
 
-<h3>What I Can？</h3>
+### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<a href="#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+</a>
 
 [![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
 
