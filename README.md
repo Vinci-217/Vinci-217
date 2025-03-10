@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-[![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/JounQin)
+[![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
 
 
 <p>
