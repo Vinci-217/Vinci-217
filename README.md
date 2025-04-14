@@ -23,8 +23,10 @@ I am a programmer with a sense of passion and sentiment.
 <code><img height="50" alt="mysql" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
 <code><img height="50" alt="redis" src="https://cdn.simpleicons.org/redis/DC382D"></code>
 
-[![Vinci's github stats](https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true])](https://github.com/Vinci-217)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinci-217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinci-217&show_icons=true&hide_title=true&count_private=true&width=400" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinci-217&layout=compact&width=400" style="width: 100%;">
+</div>
 
 [![Vinci's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinci-217&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
